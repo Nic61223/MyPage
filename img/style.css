@@ -1,0 +1,46 @@
+body {
+font-family: 'Times New Roman', Times, serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.header {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: white;
+    padding: 30px;
+}
+
+.texto {
+    text-align: justify;
+}
+
+
+.literalmenteyo {
+    width: 250px;
+    border-radius: 15px;
+}
+
+
+.colsec {
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+
+.accordion-button {
+    font-weight: 500;
+}
+
+
+.redso {
+    width: 80px;
+    margin-bottom: 10px;
+
+}
+
+a {
+    font-weight: 500;
+    color: #2a5298;
+    
+}
